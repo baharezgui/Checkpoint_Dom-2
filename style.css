@@ -1,0 +1,18 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+#color-box {
+    width: 200px;
+    height: 200px;
+    background-color: chocolate;
+}
+#change-color-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #2ecc71;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
